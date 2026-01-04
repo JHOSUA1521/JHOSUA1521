@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final year Telecommunications Engineering student  
+- 🎓 Graduate of Telecommunications Engineering
 - 🔌 Passionate about backend dev & IoT — connecting sensors, data & the web  
 - 🤖 Building an AI-powered flashcards platform (ChatGPT + SQL + Node.js)  
 - 🔄 Love RESTful APIs, automation, data management & scalable architectures  
